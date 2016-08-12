@@ -1,0 +1,10 @@
+{
+  "name": "netlify-test",
+  "version": "0.1.0",
+  "description": "Netlofy example",
+  "author": "Anielkis Herrera",
+  "private": true,
+  "dependencies": {
+    "polymer-cli": "^0.14.0"
+  }
+}
